@@ -1,0 +1,32 @@
+archivvoss
+cclasse  fabrica
+metodo guardar fabrica
+fopen
+nombbreee  dee archivo fabbrica .txt
+
+metodo escribir  archivo con  tostring para guardar el   oobjeto
+
+metodo traer  empleado
+
+
+explore()
+
+
+
+1_-guardar  array en  archivo ->transformar obj  a string +  separador
+
+			      ->  guardar un obj por  renglon
+
+2_Leer array en  archivo ->leer renglon por  renglon
+			 ->utilizar Explore
+			 ->crear obj con el texto guardado en  el archivo
+			 ->agregar objeto al array ddee empleados de la fabrica	
+			
+
+/////
+pasaje de datos  a  travez  de un form
+
+se ingreesara el nombre del archivoo y el  nommbbre de  la persona al presionaar eel boon guardar se veeriificara si ell  archhivo eexistee
+ddee exiistir el archhivo  se  copiara yy movveeera a la ccaarpea backup  cambiandole el nommbrree poor el nnoommbre mas la ffeccha
+
+bboton lleer si el  archivo existee se  mostrara el contenido  de no exisir l archivo  se informara que no existe
